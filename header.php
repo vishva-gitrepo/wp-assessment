@@ -42,7 +42,11 @@ if ( apply_filters( 'astra_header_profile_gmpg_link', true ) ) {
 
 <body <?php astra_schema_body(); ?> <?php body_class(); ?>>
 
+<<<<<<< HEAD
 <!-- Boostrap Fronend Script -->
+=======
+<!--Boostrap Fronend Script -->
+>>>>>>> d406e8272861deb0c240420cd2e991f111f41200
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 
 
